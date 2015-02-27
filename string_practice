@@ -1,0 +1,14 @@
+a = "In the town where I was born"
+b = "There lived a man who sailed to sea"
+c = "And he told us of his life"
+d = "In the land of submarines"
+e = len(a) + len(b) + len(c) + len(d)
+
+print(a)
+print(b.lower())
+print(c)
+print(d)
+
+print("In total there are", str(e), "characters")
+
+
